@@ -35,6 +35,9 @@ Substitua **"SUA_CHAVE_DE_API_DO_OPENWEATHERMAP"** na variável **api_key** pelo
 Execute o script **weather_etl.py** usando o Python.
 
 
+![resultado esperado](image/weather_resultado.png)
+
+
 
 ## 🚩 Notas
 Certifique-se de ter uma conexão à internet para fazer as chamadas à API.
